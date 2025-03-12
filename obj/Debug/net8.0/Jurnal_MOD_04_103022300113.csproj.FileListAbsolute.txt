@@ -1,0 +1,15 @@
+D:\Jurnal_MOD_04_103022300113\bin\Debug\net8.0\Jurnal_MOD_04_103022300113.exe
+D:\Jurnal_MOD_04_103022300113\bin\Debug\net8.0\Jurnal_MOD_04_103022300113.deps.json
+D:\Jurnal_MOD_04_103022300113\bin\Debug\net8.0\Jurnal_MOD_04_103022300113.runtimeconfig.json
+D:\Jurnal_MOD_04_103022300113\bin\Debug\net8.0\Jurnal_MOD_04_103022300113.dll
+D:\Jurnal_MOD_04_103022300113\bin\Debug\net8.0\Jurnal_MOD_04_103022300113.pdb
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.AssemblyInfoInputs.cache
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.AssemblyInfo.cs
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.csproj.CoreCompileInputs.cache
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.sourcelink.json
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.dll
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\refint\Jurnal_MOD_04_103022300113.dll
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.pdb
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\Jurnal_MOD_04_103022300113.genruntimeconfig.cache
+D:\Jurnal_MOD_04_103022300113\obj\Debug\net8.0\ref\Jurnal_MOD_04_103022300113.dll
